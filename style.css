@@ -87,7 +87,7 @@ body {
   top: -50%;
   width: 70px;
   height: 70px;
-  background: #29fd53;
+  background: blue;
   border-radius: 50%;
   border: 6px solid var(--color);
   transition: 0.5s;
